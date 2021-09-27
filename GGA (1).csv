@@ -1,4 +1,5 @@
 id,marker,start,end,title,desc,pic,pos,color,size,opacity,edge,mapMarker,mapColor,mapSize,where,show,click,citation,tags
-eh,segment,1868,1902,Guerras independentistas,,,,#00ff00,,,,,,,-80.0324;21.6069,,where:-79.4488;21.5254;1126,,
+eh,segment,1868,1902,Guerras independentistas,,https://upload.wikimedia.org/wikipedia/commons/e/e3/Independencia_de_Cuba%2C_revista_la_flaca%2C_1873..jpg,,#00ff00,,,,,,,-80.0324;21.6069,,where:-79.4488;21.5254;1126,,
 bio,dot,1814,,Nacimiento,,,1,#ff9900,,,,,,,-77.9173;21.3805,,where:-77.9268;21.3765;35,,
 bio,dot,1873,,Muerte,,,2,#ff9900,,,,,,,-3.7127;40.4229,,where:-3.7099;40.4054;141,,
+
