@@ -1,2 +1,2 @@
 id, marker,start,end,title,desc,pic,pos,color,size,opacity,edge,mapMarker,mapColor,mapSize,where,show,click,citation,tags
-eh,segment,1868,1902,"Guerras independentistas",,"https://upload.wikimedia.org/wikipedia/commons/e/e3/Independencia_de_Cuba%2C_revista_la_flaca%2C_1873..jpg",,#00ff00,,,,"-79.2193,21.7907",,,"where:-79.4807,21.2994,1126",,,,	
+eh,segment,1868,1902,"Guerras independentistas","https://upload.wikimedia.org/wikipedia/commons/e/e3/Independencia_de_Cuba%2C_revista_la_flaca%2C_1873..jpg",,#00ff00,,,,,,,"-78.1646,21.4945",,"where:-79.4807,21.2994,1126",,
